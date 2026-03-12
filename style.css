@@ -1,0 +1,34 @@
+body{
+font-family:Arial;
+background:#A88CC7;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+.quiz-container{
+background:white;
+padding:30px;
+border-radius:10px;
+width:400px;
+text-align:center;
+}
+
+button{
+margin-top:10px;
+padding:10px 20px;
+border:none;
+background:#6C4AB6;
+color:white;
+border-radius:5px;
+cursor:pointer;
+}
+
+.answer-btn{
+display:block;
+width:100%;
+margin:5px 0;
+background:#eee;
+color:black;
+}
